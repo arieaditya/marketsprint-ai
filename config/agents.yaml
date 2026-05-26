@@ -1,0 +1,11 @@
+model: gpt-4o-mini
+temperature: 0.2
+max_competitors: 5
+output_dir: output
+agents:
+  research:
+    enabled: true
+  analysis:
+    enabled: true
+  report:
+    enabled: true
